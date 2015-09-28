@@ -1,0 +1,65 @@
+[PA3:Start:1418824106]
+DUMP:SUCCESS
+[PA3:End]
+[PA3:Start:1418824108]
+DISPLAY:SUCCESS
+[PA3:End]
+[PA3:Start:1418824108]
+1              1              3              
+[PA3:End]
+[PA3:Start:1418824108]
+2              -1             0              
+[PA3:End]
+[PA3:Start:1418824108]
+3              -1             65535          
+[PA3:End]
+[PA3:Start:1418824108]
+4              4              2              
+[PA3:End]
+[PA3:Start:1418824108]
+5              5              6              
+[PA3:End]
+[PA3:Start:1418824125]
+UPDATE:SUCCESS
+[PA3:End]
+[PA3:Start:1418824133]
+DISPLAY:SUCCESS
+[PA3:End]
+[PA3:Start:1418824133]
+1              1              3              
+[PA3:End]
+[PA3:Start:1418824133]
+2              -1             0              
+[PA3:End]
+[PA3:Start:1418824133]
+3              -1             65535          
+[PA3:End]
+[PA3:Start:1418824133]
+4              4              5              
+[PA3:End]
+[PA3:Start:1418824133]
+5              5              6              
+[PA3:End]
+[PA3:Start:1418824149]
+DISABLE:ID IS NOT A NEIGHBOR.
+[PA3:End]
+[PA3:Start:1418824154]
+DISABLE:SUCCESS
+[PA3:End]
+[PA3:Start:1418824168]
+DUMP:SUCCESS
+[PA3:End]
+[PA3:Start:1418824172]
+PACKETS:SUCCESS
+[PA3:End]
+[PA3:Start:1418824172]
+0
+[PA3:End]
+[PA3:Start:1418824182]
+ACADEMIC_INTEGRITY:SUCCESS
+[PA3:End]
+[PA3:Start:1418824182]
+I have read and understood the course academic integrity policy located at "http://www.cse.buffalo.edu/faculty/dimitrio/courses/cse4589_f14/index.html#integrity"[PA3:End]
+[PA3:Start:1418824192]
+STEP:SUCCESS
+[PA3:End]
